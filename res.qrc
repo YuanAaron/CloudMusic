@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/title/arrow.png</file>
+        <file>resources/title/close.png</file>
+        <file>resources/title/hot.png</file>
+        <file>resources/title/logo.png</file>
+        <file>resources/title/message.png</file>
+        <file>resources/title/record.png</file>
+        <file>resources/title/search.png</file>
+        <file>resources/title/setting.png</file>
+        <file>resources/title/skin.png</file>
+        <file>resources/title/user.png</file>
+        <file>resources/title/vip.png</file>
+        <file>resources/title/castscreen.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
