@@ -5,5 +5,6 @@
         <file>src/rightPage/RightPage.qml</file>
         <file>src/bottomPage/BottomPage.qml</file>
         <file>src/commonUI/YYYWindow.qml</file>
+        <file>src/title/MinAndMax.qml</file>
     </qresource>
 </RCC>
